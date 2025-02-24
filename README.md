@@ -43,7 +43,7 @@ Data Description:
 - Electric Range : Range of the Vehicle
 
 Tools Used:
-- Excel
+- MYSQL
 - Tableau Visualization
 
 Dashboard:
